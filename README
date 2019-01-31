@@ -1,0 +1,10 @@
+Serverless implementation Web Snapshot Service
+----------------------------------------------
+
+Python implementation using browser automation headless chrome and puppeteer;
+
+i.) asgi - asynchronous server gateway interface with Quart
+
+ii.) wsgi - web server gateway interface standard implementaion with Flask
+       and deployed as AWS lambda service using zappa.
+
